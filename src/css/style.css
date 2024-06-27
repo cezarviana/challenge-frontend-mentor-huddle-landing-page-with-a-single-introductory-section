@@ -5,7 +5,7 @@ html{
 body{
     content:'';
     background: url(../images/bg-desktop.svg) no-repeat center;
-    background-size: cover;
+    background-size: contain;
     background-color: var(--bg-color);
     width: 100%;
     display:flex;
