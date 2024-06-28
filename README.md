@@ -2,7 +2,7 @@
 
 Um projeto para testar o conhecimento de HTML e, principalmente, CSS. Permitindo que seja responsivo, ou seja, funcione tanto para o desktop quanto para mobile.
 
-Acesse o projeto criado aqui: [Challenge - Frontend Mentor = Huddle landing page ](https://cezarviana.github.io/challenge-frontend-mentor-nft-preview-card-component/](https://cezarviana.github.io/challenge-frontend-mentor-huddle-landing-page-with-a-single-introductory-section/)).
+Acesse o projeto criado aqui: [Challenge - Frontend Mentor = Huddle landing page ](https://cezarviana.github.io/challenge-frontend-mentor-huddle-landing-page-with-a-single-introductory-section/).
 
 ## Descrição da tarefa
 
