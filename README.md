@@ -69,6 +69,7 @@ Abaixo parte do código, do aprendizado.
     content:'';
     background: url(../images/bg-desktop.svg) no-repeat center;
     background-size: cover;
+
     background-color: var(--bg-color);
     display:flex;
     flex-direction: column;
