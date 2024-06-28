@@ -65,11 +65,10 @@ Aprendi a fazer sobreposição de imagem no background, como uma marca d'água. 
 Abaixo parte do código, do aprendizado.
 
 ***
-body{
+    body{
     content:'';
     background: url(../images/bg-desktop.svg) no-repeat center;
     background-size: cover;
-
     background-color: var(--bg-color);
     display:flex;
     flex-direction: column;
