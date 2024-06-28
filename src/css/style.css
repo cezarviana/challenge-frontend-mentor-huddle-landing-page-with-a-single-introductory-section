@@ -5,27 +5,24 @@ html{
 body{
     content:'';
     background: url(../images/bg-desktop.svg) no-repeat center;
-    background-size: contain;
+    background-size: cover;
+
     background-color: var(--bg-color);
-    width: 100%;
     display:flex;
     flex-direction: column;
-
-    color:#fff;
-    height: 100%;
+    color: var(--font-color);
     font-family: 'Poppins', sans-serif;
-
-
 }
 
 .header{
-    height: 250px;
+    height: 200px;
 }
 
 .header .logo{
-    margin: 100px 150px;
     display: flex;
     align-items: center;
+    height: 200px;
+    margin-left: 80px;
 }
 
 .container .main-info{
@@ -38,7 +35,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 500px;
+    max-width: 495px;
 }
 
 .container .main-info .text-right h2{
@@ -57,16 +54,22 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #fff;
+    background-color: var(--font-color);
     color: var(--bg-color);
     height: 55px;
     width: 200px;
-    border-radius: 25px;
+    border-radius: 30px;
 }
 
 .container .main-info .text-right .btn:hover{
     background-color: var(--active-states);
-    color: #fff;
+    color: var(--font-color);
+    transition: 0.3s ease-in-out;
+}
+
+.footer{
+    display: flex;
+    justify-content: end;
 }
 
 
