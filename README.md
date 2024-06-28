@@ -76,5 +76,5 @@ Abaixo parte do código, do aprendizado.
     color: var(--font-color);
     font-family: 'Poppins', sans-serif;
     display: flex;
-}
+    }
 ***
