@@ -51,7 +51,7 @@
         margin-bottom: 30px;
     }
         
-    footer .socialgit {
+    footer .social ul{
         display: flex;
         justify-content: center;
         align-items: center;
