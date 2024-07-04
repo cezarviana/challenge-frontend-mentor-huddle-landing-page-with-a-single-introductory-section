@@ -1,4 +1,4 @@
-@media (max-width: 992px){
+@media (max-width: 954px){
     body{
         content:'';
         background: url(../images/bg-mobile.svg) no-repeat top;
@@ -53,6 +53,7 @@
     .container .main-info .text-right p{
         font-size: 14px;
         margin-bottom: 20px;
+        max-width: 480px;
     }
 
     .container .main-info .text-right .btn{
@@ -68,9 +69,4 @@
         margin: 0;
         height: 40px;
     }
-
-    footer .social ul a{
-        font-size: 20px;
-    }
-
 }
