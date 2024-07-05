@@ -73,6 +73,9 @@ body{
     color: var(--bg-color);
     height: 55px;
     width: 200px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    border: none;
     border-radius: 30px;
 }
 
@@ -81,6 +84,7 @@ body{
     color: var(--font-color);
     box-shadow: 1px 2px 3px black;
     transition: 0.3s ease-in-out;
+    cursor: pointer;
 }
 
 footer .social ul{
