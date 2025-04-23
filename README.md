@@ -29,7 +29,7 @@ Um projeto para testar o conhecimento de HTML e, principalmente, CSS. Permitindo
 </div>
 
 
-## Imagens do Design criado
+### Imagens do Design criado
 <div align="center">
 
 <img src="./src/design/my-active-states.gif"  style="height: 300px; text-align: center;">
