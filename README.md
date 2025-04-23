@@ -1,8 +1,8 @@
 # ⚡ Challenge Frontend Mentor - Huddle landing page with a single introductory section
 
 ## 📝 Descrição do Projeto
-Criar um layout próximo desse desafio do frontend mentor: [Frontend Mentor | Huddle landing page with a single introductory section](https://cezarviana.github.io/challenge-frontend-mentor-huddle-landing-page-with-a-single-introductory-section/). Onde o principal desafio é construir um aplicativo que selecione um conselho aleatórios de um banco de conselhos. 
-Um projeto para testar o conhecimento de HTML e, principalmente, CSS. Permitindo que seja responsivo, ou seja, funcione tanto para o desktop quanto para mobile.
+Criar um layout próximo desse desafio do frontend mentor: [Frontend Mentor | Huddle landing page with a single introductory section](https://cezarviana.github.io/challenge-frontend-mentor-huddle-landing-page-with-a-single-introductory-section/). 
+Um projeto para testar o conhecimento de HTML e, principalmente, CSS. Permitindo que seja responsivo, ou seja, funcione tanto para o desktop, telas 4k e mobile.
 
 
 ## 🔎 Funcionalidades
