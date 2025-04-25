@@ -4,6 +4,8 @@
 Criar um layout próximo desse desafio do frontend mentor: [Frontend Mentor | Huddle landing page with a single introductory section](https://cezarviana.github.io/challenge-frontend-mentor-huddle-landing-page-with-a-single-introductory-section/). 
 Um projeto para testar o conhecimento de HTML e, principalmente, CSS. Permitindo que seja responsivo, ou seja, funcione tanto para o desktop, telas 4k e mobile.
 
+Acesse o projeto criado aqui: [Huddle landing page](https://cezarviana.github.io/challenge-frontend-mentor-huddle-landing-page-with-a-single-introductory-section/).
+
 
 ## 🔎 Funcionalidades
 - Responsivo para todos os dispositivos
